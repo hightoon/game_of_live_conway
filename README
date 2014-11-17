@@ -1,0 +1,3 @@
+Implemention of Conway's Game of Life in C as task of Code Retreat 2014, Hangzhou.
+
+No GUI, just simple algrithm and UT cases. It's developped with Pair Programming and Test Driven Development schemes.
